@@ -1,7 +1,6 @@
 # Intensivo de Python: 50 Desafios Práticos
 
-Este documento contém uma lista curada de 50 desafios de programação em Python criados pelo Gemmini Pro, organizados por nível de dificuldade para guiar seu aprendizado de forma progressiva. 
-Algum erro 😱 ? Crie uma issue 🤗
+Este documento contém uma lista curada de 50 desafios de programação em Python criados pelo Gemmini Pro, organizados por nível de dificuldade para guiar seu aprendizado de forma progressiva.
 
 ## 🔰 Nível Iniciante (Dia 1-10)
 
@@ -77,3 +76,59 @@ Algum erro 😱 ? Crie uma issue 🤗
 48. **Aplicação de Lista de Tarefas (To-Do List) com Interface Gráfica:** Crie um aplicativo de desktop com uma interface gráfica (usando Tkinter ou PyQt) que permita ao usuário gerenciar suas tarefas diárias.
 49. **Automatizador de Tarefas com Selenium:** Crie um script que automatize uma tarefa repetitiva na web, como preencher um formulário de login ou baixar relatórios de um sistema web.
 50. **Blog Simples com Banco de Dados:** Desenvolva uma aplicação web completa de um blog usando um framework como Django ou Flask. A aplicação deve permitir criar, editar e deletar posts, além de ter um sistema de comentários e armazenamento em um banco de dados (SQLite ou PostgreSQL).
+
+## 💻 Como Utilizar Este Repositório
+
+Clonar o repositório:
+
+```Bash
+git clone https://github.com/selrahcsan/50-dias-de-Python.git
+```
+
+Navegue até o diretório:
+
+```Bash
+cd 50-dias-de-Python
+```
+
+## 🤔 Escolha um desafio e comece a codificar!
+Crie um arquivo Python para cada solução (ex: *desafio_01.py, desafio_02.py*).
+
+## Tente resolver o problema sozinho antes de procurar por soluções. A dificuldade faz parte do aprendizado!
+
+##  😎 Teste e refatore seu código:
+
+Após chegar a uma solução, revise seu código. Ele está legível? Pode ser mais eficiente? Há casos extremos que não foram tratados?
+
+## 📝 Use Git para salvar seu progresso:
+
+Faça commits regulares das suas soluções. Isso é uma ótima prática para se acostumar com o fluxo de trabalho de desenvolvimento.
+
+```Bash
+git add .
+git commit -m "Solução para o desafio 05: Verificador de Palíndromo"
+```
+
+🛠️ Ferramentas e Conceitos Abordados
+
+
+🤝 Como Contribuir
+
+Contribuições são o que tornam a comunidade de código aberto um lugar incrível para aprender e criar. Qualquer contribuição que você fizer será muito apreciada.
+
+* Faça um Fork do projeto.
+* Crie uma Branch para sua feature (git checkout -b feature/NovaFeature).
+* Faça o Commit de suas alterações (git commit -m 'Adiciona NovaFeature').
+* Faça o Push para a Branch (git push origin feature/NovaFeature).
+* Abra um Pull Request.
+
+## 😌 Sugestões de contribuição
+
+* Correção de erros de digitação.
+* Sugestão de novos desafios.
+* Melhora na descrição dos desafios existentes.
+
+📄 Licença
+
+Distribuído sob a licença GPL-3.0 license.
+Veja LICENSE para mais informações.
