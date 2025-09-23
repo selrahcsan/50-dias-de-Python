@@ -24,16 +24,16 @@ Este documento contém uma lista curada de 50 desafios de programação em Pytho
 11. **Tabuada de Multiplicação:** Peça um número ao usuário e exiba a tabuada de multiplicação desse número de 1 a 10.
 12. **Contador de Vogais:** Crie um programa que conte o número de vogais em uma string fornecida pelo usuário.
 13. **Inversor de Palavras:** Escreva uma função que receba uma string e a retorne invertida. Ex: "python" -> "nohtyp".
-14. Lista de Compras: Crie um programa que permita ao usuário adicionar e remover itens de uma lista de compras. Ao final, exiba a lista completa.
-15. Verificador de Palíndromo: Desenvolva um programa que verifique se uma palavra é um palíndromo (lê-se da mesma forma de trás para frente).
-16. Encontrando o Maior Número: Escreva uma função que receba uma lista de números e retorne o maior valor.
-17. Agenda de Contatos Simples: Crie um dicionário para armazenar nomes e números de telefone. Permita que o usuário adicione e procure por contatos.
-18. Sequência de Fibonacci: Gere os primeiros N números da sequência de Fibonacci, onde N é informado pelo usuário.
-19. Adivinhe o Número: Crie um jogo simples onde o computador "pensa" em um número entre 1 e 100, e o usuário tem que adivinhar. O programa deve dar dicas (maior/menor).
-20. Função de Fatorial: Escreva uma função que calcule o fatorial de um número inteiro não negativo.
-21. Filtrando Números Pares: Crie uma função que receba uma lista de números e retorne uma nova lista contendo apenas os números pares.
+14. **Lista de Compras:** Crie um programa que permita ao usuário adicionar e remover itens de uma lista de compras. Ao final, exiba a lista completa.
+15. **Verificador de Palíndromo:** Desenvolva um programa que verifique se uma palavra é um palíndromo (lê-se da mesma forma de trás para frente).
+16. **Encontrando o Maior Número:** Escreva uma função que receba uma lista de números e retorne o maior valor.
+17. **Agenda de Contatos Simples:** Crie um dicionário para armazenar nomes e números de telefone. Permita que o usuário adicione e procure por contatos.
+18. **Sequência de Fibonacci:** Gere os primeiros N números da sequência de Fibonacci, onde N é informado pelo usuário.
+19. **Adivinhe o Número:** Crie um jogo simples onde o computador "pensa" em um número entre 1 e 100, e o usuário tem que adivinhar. O programa deve dar dicas (maior/menor).
+20. **Função de Fatorial:** Escreva uma função que calcule o fatorial de um número inteiro não negativo.
+21. **Filtrando Números Pares:** Crie uma função que receba uma lista de números e retorne uma nova lista contendo apenas os números pares.
 
-🔶 Nível Pleno (Dia 22-32)
+# 🔶 Nível Pleno (Dia 22-32)
 
 **Foco:** Funções avançadas (args, kwargs), manipulação de arquivos, list comprehensions e introdução à Orientação a Objetos (POO).
 
