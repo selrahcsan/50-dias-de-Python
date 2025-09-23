@@ -128,7 +128,7 @@ Contribuições são o que tornam a comunidade de código aberto um lugar incrí
 * Sugestão de novos desafios.
 * Melhora na descrição dos desafios existentes.
 
-📄 Licença
+## 📄 Licença
 
 Distribuído sob a licença GPL-3.0 license.
 Veja LICENSE para mais informações.
