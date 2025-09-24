@@ -13,8 +13,8 @@ Este documento contém uma lista curada de 50 desafios de programação em Pytho
 5. **Concatenação de Strings:** Solicite o nome e o sobrenome do usuário e exiba uma mensagem de boas-vindas com o nome completo.
 6. **Verificador de Número Par ou Ímpar:** Crie um programa que receba um número inteiro e diga se ele é par ou ímpar.
 7. **Cálculo de Média:** Peça ao usuário para inserir três notas e calcule a média aritmética.
-8. **Manipulação de Strings (Maiúsculas e Minúsculas):** Receba uma palavra do usuário e imprima-a em maiúsculas e minúsculas.
-9. **Operações Matemáticas:** Peça dois números e exiba o resultado da soma, subtração, multiplicação e divisão.
+8. **Operações Matemáticas:** Peça dois números e exiba o resultado da soma, subtração, multiplicação e divisão.
+9. **Manipulação de Strings (Maiúsculas e Minúsculas):** Receba uma palavra do usuário e imprima-a em maiúsculas e minúsculas.
 10. **Calculadora de Área de um Quadrado:** Solicite o lado de um quadrado e calcule sua área e seu perímetro.
 
 ## 🔷 Nível Júnior (Dia 11-21)
