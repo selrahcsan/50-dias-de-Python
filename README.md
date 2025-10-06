@@ -79,10 +79,16 @@ Este documento contém uma lista curada de 50 desafios de programação em Pytho
 
 ## 💻 Como Utilizar Este Repositório
 
-Clonar o repositório:
+Clonar o repositório do Github:
 
 ```Bash
 git clone https://github.com/selrahcsan/50-dias-de-Python.git
+```
+
+Ou Clonar o repositório do Gitlab:
+
+```Bash
+git clone https://gitlab.com/charlesstna/50-dias-de-python.git
 ```
 
 Navegue até o diretório:
